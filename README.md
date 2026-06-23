@@ -2,6 +2,20 @@
 A curated list of models, benchmarks, tools and guides for audio editing  
 <img height=30 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png"/> Welcome to PR if you want to add some resources.
 
+
+
+## Benchmarks
+
+### Speech Editing
+| Date | Title | Relevant&nbsp;Resources |
+|:--------:|:------|:------:|
+| 2026-06 | **MMAE: A Massive Multitask Audio Editing Benchmark** | [arXiv](https://arxiv.org/abs/2606.07229)/[Github](https://github.com/ddlBoJack/MMAE)/[HuggingFace](https://huggingface.co/datasets/BoJack/MMAE) |
+| 2026-06 | **SpeechEditBench: A Bilingual Multi-Attribute Benchmark for Instruction-Guided Speech Editing** | [arXiv](https://arxiv.org/abs/2606.01804)/[Github](https://github.com/daxintan-cuhk/SpeechEditBench)/[HuggingFace](https://huggingface.co/datasets/DiscreteSpeech/SpeechEditBench) |
+| 2025-11 | **Ming-Freeform-Audio-Edit** | [arXiv](https://arxiv.org/abs/2511.05516)/[Github](https://github.com/inclusionAI/Ming-Freeform-Audio-Edit)/[HuggingFace](https://huggingface.co/datasets/inclusionAI/Ming-Freeform-Audio-Edit-Benchmark) |
+| 2025-11 | **Step-Audio-Edit-Benchmark** | [arXiv](https://arxiv.org/abs/2511.03601)/[Github](https://github.com/stepfun-ai/Step-Audio-Edit-Benchmark) |
+
+
+
 ## Models
 
 ### Speech Editing
@@ -66,15 +80,6 @@ A curated list of models, benchmarks, tools and guides for audio editing
 
 
 
-## Benchmarks
-
-### Speech Editing
-| Date | Title | Relevant&nbsp;Resources |
-|:--------:|:------|:------:|
-| 2026-06 | **MMAE: A Massive Multitask Audio Editing Benchmark** | [arXiv](https://arxiv.org/abs/2606.07229)/[Github](https://github.com/ddlBoJack/MMAE)/[HuggingFace](https://huggingface.co/datasets/BoJack/MMAE) |
-| 2026-06 | **SpeechEditBench: A Bilingual Multi-Attribute Benchmark for Instruction-Guided Speech Editing** | [arXiv](https://arxiv.org/abs/2606.01804)/[Github](https://github.com/daxintan-cuhk/SpeechEditBench)/[HuggingFace](https://huggingface.co/datasets/DiscreteSpeech/SpeechEditBench) |
-| 2025-11 | **Ming-Freeform-Audio-Edit** | [arXiv](https://arxiv.org/abs/2511.05516)/[Github](https://github.com/inclusionAI/Ming-Freeform-Audio-Edit)/[HuggingFace](https://huggingface.co/datasets/inclusionAI/Ming-Freeform-Audio-Edit-Benchmark) |
-| 2025-11 | **Step-Audio-Edit-Benchmark** | [arXiv](https://arxiv.org/abs/2511.03601)/[Github](https://github.com/stepfun-ai/Step-Audio-Edit-Benchmark) |
 
 
 
