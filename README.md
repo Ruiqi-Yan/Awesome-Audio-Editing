@@ -8,7 +8,7 @@ A curated list of models, benchmarks, tools and guides for audio editing
 | Date | Title | Relevant&nbsp;Resources |
 |:--------:|:------|:------:|
 | 2026-05 | **CosyEdit2: Speech-Editing-Oriented Reinforcement Learning Unlocks Better Zero-Shot TTS** | [arXiv](https://arxiv.org/abs/2605.25930)/[Demo](https://cjy1018.github.io/CosyEdit2) |
-| 2026-01 | **CosyEdit: Unlocking End-to-End Speech Editing Capability from Zero-Shot Text-to-Speech Models** | [arXiv](https://arxiv.org/abs/2601.05329) |
+| 2026-01 | **CosyEdit: Unlocking End-to-End Speech Editing Capability from Zero-Shot Text-to-Speech Models** | [arXiv](https://arxiv.org/abs/2601.05329)/[Github](https://github.com/CJY1018/CosyEdit)/[HuggingFace](https://huggingface.co/CJY/CosyEdit)/[Demo](https://cjy1018.github.io/CosyEditDemoPage/) |
 | 2025-12 | **MiMo-Audio: Audio Language Models are Few-Shot Learners** | [arXiv](https://arxiv.org/abs/2512.23808)/[Github](https://github.com/XiaomiMiMo/MiMo-Audio)/[HuggingFace](https://huggingface.co/collections/XiaomiMiMo/mimo-audio-68cc7202692c27dae881cce0) |
 | 2025-11 | **Ming-UniAudio: Speech LLM for Joint Understanding, Generation and Editing with Unified Representation** | [arXiv](https://arxiv.org/abs/2511.05516)/[Github](https://github.com/inclusionAI/Ming-UniAudio)/[HuggingFace](https://huggingface.co/inclusionAI/Ming-UniAudio-16B-A3B)/[Demo](https://xqacmer.github.io/Ming-Unitok-Audio.github.io/) |
 | 2025-11 | **Step-Audio-EditX Technical Report** | [arXiv](https://arxiv.org/abs/2511.03601)/[Github](https://github.com/stepfun-ai/Step-Audio-EditX)/[HuggingFace](https://huggingface.co/stepfun-ai/Step-Audio-EditX)/[Demo](https://stepaudiollm.github.io/step-audio-editx/) |
