@@ -6,10 +6,15 @@ A curated list of models, benchmarks, tools and guides for audio editing
 
 ## Benchmarks
 
-### Speech Editing
-| Date | Title | Relevant&nbsp;Resources |
+### General-Purpose Audio Editing
+| &nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp; | Title | Relevant&nbsp;Resources |
 |:--------:|:------|:------:|
 | 2026-06 | **MMAE: A Massive Multitask Audio Editing Benchmark** | [arXiv](https://arxiv.org/abs/2606.07229)/[Github](https://github.com/ddlBoJack/MMAE)/[HuggingFace](https://huggingface.co/datasets/BoJack/MMAE) |
+
+
+### Speech Editing
+| &nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp; | Title | Relevant&nbsp;Resources |
+|:--------:|:------|:------:|
 | 2026-06 | **SpeechEditBench: A Bilingual Multi-Attribute Benchmark for Instruction-Guided Speech Editing** | [arXiv](https://arxiv.org/abs/2606.01804)/[Github](https://github.com/daxintan-cuhk/SpeechEditBench)/[HuggingFace](https://huggingface.co/datasets/DiscreteSpeech/SpeechEditBench) |
 | 2025-11 | **Ming-Freeform-Audio-Edit** | [arXiv](https://arxiv.org/abs/2511.05516)/[Github](https://github.com/inclusionAI/Ming-Freeform-Audio-Edit)/[HuggingFace](https://huggingface.co/datasets/inclusionAI/Ming-Freeform-Audio-Edit-Benchmark) |
 | 2025-11 | **Step-Audio-Edit-Benchmark** | [arXiv](https://arxiv.org/abs/2511.03601)/[Github](https://github.com/stepfun-ai/Step-Audio-Edit-Benchmark) |
@@ -19,7 +24,7 @@ A curated list of models, benchmarks, tools and guides for audio editing
 ## Models
 
 ### Speech Editing
-| Date | Title | Relevant&nbsp;Resources |
+| &nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp; | Title | Relevant&nbsp;Resources |
 |:--------:|:------|:------:|
 | 2026-05 | **CosyEdit2: Speech-Editing-Oriented Reinforcement Learning Unlocks Better Zero-Shot TTS** | [arXiv](https://arxiv.org/abs/2605.25930)/[Demo](https://cjy1018.github.io/CosyEdit2) |
 | 2026-01 | **CosyEdit: Unlocking End-to-End Speech Editing Capability from Zero-Shot Text-to-Speech Models** | [arXiv](https://arxiv.org/abs/2601.05329)/[Github](https://github.com/CJY1018/CosyEdit)/[HuggingFace](https://huggingface.co/CJY/CosyEdit)/[Demo](https://cjy1018.github.io/CosyEditDemoPage/) |
@@ -35,7 +40,7 @@ A curated list of models, benchmarks, tools and guides for audio editing
 
 
 ### Audio Editing
-| Date | Title | Relevant&nbsp;Resources |
+| &nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp; | Title | Relevant&nbsp;Resources |
 |:--------:|:------|:------:|
 | 2026-06 | **DirectAudioEdit: Inversion-Free Text-Guided Audio Editing via Diffusion Prediction Contrast** | [arXiv](https://arxiv.org/abs/2606.07356)/[Demo](https://directaudioedit.github.io/) |
 | 2026-05 | **UNISON: A Unified Sound Generation and Editing Framework via Deep LLM Fusion** | [arXiv](https://arxiv.org/abs/2605.31530)/[Github](https://github.com/lizhaoqing/UNISON)/[Demo](https://lizhaoqing.github.io/UNISON-demo/) |
@@ -57,7 +62,7 @@ A curated list of models, benchmarks, tools and guides for audio editing
 
 
 ### Music Editing
-| Date | Title | Relevant&nbsp;Resources |
+| &nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp; | Title | Relevant&nbsp;Resources |
 |:--------:|:------|:------:|
 | 2026-02 | **ACE-Step 1.5: Pushing the Boundaries of Open-Source Music Generation** | [arXiv](https://arxiv.org/abs/2602.00744)/[Demo](https://ace-step.github.io/ace-step-v1.5.github.io/) |
 | 2025-11 | **Melodia: Training-Free Music Editing Guided by Attention Probing in Diffusion Models** | [arXiv](https://arxiv.org/abs/2511.08252) |
@@ -74,7 +79,7 @@ A curated list of models, benchmarks, tools and guides for audio editing
 
 
 ## Tools
-| Date | Title | Relevant&nbsp;Resources |
+| &nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp; | Title | Relevant&nbsp;Resources |
 |:--------:|:------|:------:|
 | 2025-12 | **SAM Audio: Segment Anything in Audio** | [arXiv](https://arxiv.org/abs/2512.18099)/[Github](https://github.com/facebookresearch/sam-audio) |
 
