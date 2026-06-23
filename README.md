@@ -7,6 +7,7 @@ A curated list of models, benchmarks, tools and guides for audio editing
 ### Speech Editing
 | Date | Title | Relevant&nbsp;Resources |
 |:--------:|:------|:------:|
+| 2026-05 | **CosyEdit2: Speech-Editing-Oriented Reinforcement Learning Unlocks Better Zero-Shot TTS** | [arXiv](https://arxiv.org/abs/2605.25930)/[Demo](https://cjy1018.github.io/CosyEdit2) |
 | 2026-01 | **CosyEdit: Unlocking End-to-End Speech Editing Capability from Zero-Shot Text-to-Speech Models** | [arXiv](https://arxiv.org/abs/2601.05329) |
 | 2025-12 | **MiMo-Audio: Audio Language Models are Few-Shot Learners** | [arXiv](https://arxiv.org/abs/2512.23808)/[Github](https://github.com/XiaomiMiMo/MiMo-Audio)/[HuggingFace](https://huggingface.co/collections/XiaomiMiMo/mimo-audio-68cc7202692c27dae881cce0) |
 | 2025-11 | **Ming-UniAudio: Speech LLM for Joint Understanding, Generation and Editing with Unified Representation** | [arXiv](https://arxiv.org/abs/2511.05516)/[Github](https://github.com/inclusionAI/Ming-UniAudio)/[HuggingFace](https://huggingface.co/inclusionAI/Ming-UniAudio-16B-A3B)/[Demo](https://xqacmer.github.io/Ming-Unitok-Audio.github.io/) |
@@ -44,11 +45,13 @@ A curated list of models, benchmarks, tools and guides for audio editing
 ### Music Editing
 | Date | Title | Relevant&nbsp;Resources |
 |:--------:|:------|:------:|
+| 2026-02 | **ACE-Step 1.5: Pushing the Boundaries of Open-Source Music Generation** | [arXiv](https://arxiv.org/abs/2602.00744)/[Demo](https://ace-step.github.io/ace-step-v1.5.github.io/) |
 | 2025-11 | **Melodia: Training-Free Music Editing Guided by Attention Probing in Diffusion Models** | [arXiv](https://arxiv.org/abs/2511.08252) |
 | 2025-11 | **MusRec: Zero-Shot Text-to-Music Editing via Rectified Flow and Diffusion Transformers** | [arXiv](https://arxiv.org/abs/2511.04376) |
 | 2025-06 | **MuseControlLite: Multifunctional Music Generation with Lightweight Conditioners** | [arXiv](https://arxiv.org/abs/2506.18729)/[Github](https://github.com/fundwotsai2001/MuseControlLite)/[Demo](https://musecontrollite.github.io/web/) |
 | 2025-06 | **ACE-Step: A Step Towards Music Generation Foundation Model** | [arXiv](https://arxiv.org/abs/2506.00045)/[Github](https://github.com/ace-step/ACE-Step)/[HuggingFace](https://huggingface.co/ACE-Step/ACE-Step-v1-3.5B) |
 | 2025-04 | **SteerMusic: Enhanced Musical Consistency for Zero-shot Text-guided and Personalized Music Editing** | [arXiv](https://arxiv.org/abs/2504.10826)/[Github](https://github.com/sony/steermusic)/[Demo](https://steermusic.pages.dev/) |
+| 2024-12 | **SongEditor: Adapting Zero-Shot Song Generation Language Model as a Multi-Task Editor** | [arXiv](https://arxiv.org/abs/2412.13786)/[Demo](https://cypress-yang.github.io/SongEditor_demo/) |
 | 2024-07 | **High Fidelity Text-Guided Music Editing via Single-Stage Flow Matching (MelodyFlow)** | [arXiv](https://arxiv.org/abs/2407.03648)/[Demo](https://melodyflow.github.io)/[HuggingFace](https://huggingface.co/spaces/facebook/melodyflow) |
 | 2024-05 | **Instruct-MusicGen: Unlocking Text-to-Music Editing for Music Language Models via Instruction Tuning** | [arXiv](https://arxiv.org/abs/2405.18386)/[Github](https://github.com/ldzhangyx/instruct-musicgen)/[Demo](https://bit.ly/instruct-musicgen) |
 | 2024-05 | **DITTO-2: Distilled Diffusion Inference-Time T-Optimization for Music Generation** | [arXiv](https://arxiv.org/abs/2405.20289)/[Demo](https://ditto-music.github.io/ditto2/) |
