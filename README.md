@@ -48,7 +48,6 @@ A curated list of models, benchmarks, tools and guides for audio editing
 | 2026-02 | **ACE-Step 1.5: Pushing the Boundaries of Open-Source Music Generation** | [arXiv](https://arxiv.org/abs/2602.00744)/[Demo](https://ace-step.github.io/ace-step-v1.5.github.io/) |
 | 2025-11 | **Melodia: Training-Free Music Editing Guided by Attention Probing in Diffusion Models** | [arXiv](https://arxiv.org/abs/2511.08252) |
 | 2025-11 | **MusRec: Zero-Shot Text-to-Music Editing via Rectified Flow and Diffusion Transformers** | [arXiv](https://arxiv.org/abs/2511.04376) |
-| 2025-06 | **MuseControlLite: Multifunctional Music Generation with Lightweight Conditioners** | [arXiv](https://arxiv.org/abs/2506.18729)/[Github](https://github.com/fundwotsai2001/MuseControlLite)/[Demo](https://musecontrollite.github.io/web/) |
 | 2025-06 | **ACE-Step: A Step Towards Music Generation Foundation Model** | [arXiv](https://arxiv.org/abs/2506.00045)/[Github](https://github.com/ace-step/ACE-Step)/[HuggingFace](https://huggingface.co/ACE-Step/ACE-Step-v1-3.5B) |
 | 2025-04 | **SteerMusic: Enhanced Musical Consistency for Zero-shot Text-guided and Personalized Music Editing** | [arXiv](https://arxiv.org/abs/2504.10826)/[Github](https://github.com/sony/steermusic)/[Demo](https://steermusic.pages.dev/) |
 | 2024-12 | **SongEditor: Adapting Zero-Shot Song Generation Language Model as a Multi-Task Editor** | [arXiv](https://arxiv.org/abs/2412.13786)/[Demo](https://cypress-yang.github.io/SongEditor_demo/) |
@@ -57,10 +56,7 @@ A curated list of models, benchmarks, tools and guides for audio editing
 | 2024-05 | **DITTO-2: Distilled Diffusion Inference-Time T-Optimization for Music Generation** | [arXiv](https://arxiv.org/abs/2405.20289)/[Demo](https://ditto-music.github.io/ditto2/) |
 | 2024-02 | **MusicMagus: Zero-Shot Text-to-Music Editing via Diffusion Models** | [arXiv](https://arxiv.org/abs/2402.06178)/[Github](https://github.com/ldzhangyx/MusicMagus)/[Demo](https://bit.ly/musicmagus-demo) |
 | 2024-01 | **DITTO: Diffusion Inference-Time T-Optimization for Music Generation** | [arXiv](https://arxiv.org/abs/2401.12179)/[Demo](https://ditto-music.github.io/web/) |
-| 2023-11 | **Music ControlNet: Multiple Time-varying Controls for Music Generation** | [arXiv](https://arxiv.org/abs/2311.07069)/[Demo](https://musiccontrolnet.github.io/web/) |
-| 2023-11 | **M²UGen: Multi-modal Music Understanding and Generation with the Power of Large Language Models** | [arXiv](https://arxiv.org/abs/2311.11255)/[Github](https://github.com/shansongliu/M2UGen) |
 | 2023-10 | **Loop Copilot: Conducting AI Ensembles for Music Generation and Iterative Editing** | [arXiv](https://arxiv.org/abs/2310.12404)/[Github](https://github.com/ldzhangyx/loop-copilot) |
-| 2023-10 | **Content-based Controls For Music Large Language Modeling (Coco-Mulla)** | [arXiv](https://arxiv.org/abs/2310.17162)/[Github](https://github.com/Kikyo-16/coco-mulla-repo)/[Demo](https://kikyo-16.github.io/coco-mulla/) |
 
 
 ## Tools
