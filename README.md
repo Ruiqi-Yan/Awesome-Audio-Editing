@@ -26,6 +26,7 @@ A curated list of models, benchmarks, tools and guides for audio editing
 ### Speech Editing
 | &nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp; | Title | Relevant&nbsp;Resources |
 |:--------:|:------|:------:|
+| 2026-06 | **UniSAE: Unified Speech Attribute Editing on Speaker, Emotion and Low-Level Content via Discrete Phonetic Posteriorgram Modelling** | [arXiv](https://arxiv.org/abs/2606.31128)/[Demo](https://anonymous260213.github.io/mydemo/) |
 | 2026-05 | **CosyEdit2: Speech-Editing-Oriented Reinforcement Learning Unlocks Better Zero-Shot TTS** | [arXiv](https://arxiv.org/abs/2605.25930)/[Demo](https://cjy1018.github.io/CosyEdit2) |
 | 2026-01 | **CosyEdit: Unlocking End-to-End Speech Editing Capability from Zero-Shot Text-to-Speech Models** | [arXiv](https://arxiv.org/abs/2601.05329)/[Github](https://github.com/CJY1018/CosyEdit)/[HuggingFace](https://huggingface.co/CJY/CosyEdit)/[Demo](https://cjy1018.github.io/CosyEditDemoPage/) |
 | 2025-12 | **MiMo-Audio: Audio Language Models are Few-Shot Learners** | [arXiv](https://arxiv.org/abs/2512.23808)/[Github](https://github.com/XiaomiMiMo/MiMo-Audio)/[HuggingFace](https://huggingface.co/collections/XiaomiMiMo/mimo-audio-68cc7202692c27dae881cce0) |
