@@ -19,7 +19,10 @@ A curated list of models, benchmarks, tools and guides for audio editing
 | 2025-11 | **Ming-Freeform-Audio-Edit** | [arXiv](https://arxiv.org/abs/2511.05516)/[Github](https://github.com/inclusionAI/Ming-Freeform-Audio-Edit)/[HuggingFace](https://huggingface.co/datasets/inclusionAI/Ming-Freeform-Audio-Edit-Benchmark) |
 | 2025-11 | **Step-Audio-Edit-Benchmark** | [arXiv](https://arxiv.org/abs/2511.03601)/[Github](https://github.com/stepfun-ai/Step-Audio-Edit-Benchmark) |
 
-
+### Music Editing
+| &nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp; | Title | Relevant&nbsp;Resources |
+|:--------:|:------|:------:|
+| 2026-03 | **LyricEditBench: The First Benchmark for Melody-Preserving Lyric Modification Evaluation** | [arXiv](https://arxiv.org/abs/2603.24589)/[Github](https://github.com/ASLP-lab/YingMusic-Singer-Plus)/[HuggingFace](https://huggingface.co/datasets/ASLP-lab/LyricEditBench) |
 
 ## Models
 
