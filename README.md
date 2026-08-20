@@ -3,6 +3,7 @@ A curated list of models, benchmarks, tools and guides for audio editing
 <img height=30 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png"/> Welcome to PR if you want to add some resources.
 
 ## Table of Contents
+- [Challenges](#challenges)
 - [Benchmarks](#benchmarks)
   - [General-Purpose Audio Editing](#general-purpose-audio-editing)
   - [Speech Editing (benchmarks)](#speech-editing)
@@ -12,7 +13,11 @@ A curated list of models, benchmarks, tools and guides for audio editing
   - [Audio Editing](#audio-editing)
   - [Music Editing (models)](#music-editing-1)
 - [Tools](#tools)
-- [Challenges](#challenges)
+
+## Challenges
+| &nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp; | Title | Relevant&nbsp;Resources |
+|:--------:|:------|:------:|
+| 2027 | **Audio-Editing-Challenge (ICASSP 2027)** | [GitHub](https://github.com/Audio-Editing-Challenge/Audio-Editing-Challenge#about-the-challenge)/[Challenge Website](https://audio-editing-challenge.github.io/) |
 
 
 
@@ -100,12 +105,6 @@ A curated list of models, benchmarks, tools and guides for audio editing
 | &nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp; | Title | Relevant&nbsp;Resources |
 |:--------:|:------|:------:|
 | 2025-12 | **SAM Audio: Segment Anything in Audio** | [arXiv](https://arxiv.org/abs/2512.18099)/[Github](https://github.com/facebookresearch/sam-audio) |
-
-## Challenges
-| &nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp; | Title | Relevant&nbsp;Resources |
-|:--------:|:------|:------:|
-| 2027 | **Audio-Editing-Challenge (ICASSP 2027)** | [GitHub](https://github.com/Audio-Editing-Challenge/Audio-Editing-Challenge#about-the-challenge)/[Challenge Website](https://audio-editing-challenge.github.io/) |
-
 
 
 
