@@ -46,6 +46,7 @@ A curated list of models, benchmarks, tools and guides for audio editing
 ### Speech Editing
 | &nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp; | Title | Relevant&nbsp;Resources |
 |:--------:|:------|:------:|
+| 2026-08 | **FireRedAudio: A General-Purpose Audio Language Model with Decoupled Continuous Representations for Understanding and Generation** | [arXiv](https://arxiv.org/abs/2608.24168)/[Github](https://github.com/FireRedTeam/FireRedAudio)/[HuggingFace](https://huggingface.co/FireRedTeam/FireRedAudio)/[ModelScope](https://www.modelscope.cn/models/FireRedTeam/FireRedAudio)/[Demo](https://fireredteam.github.io/demos/fireredaudio/) |
 | 2026-08 | **FireRedTTS3: Unified Speech Generation and Editing with Semantically Enriched Speech Representations** | [arXiv](https://arxiv.org/abs/2608.17492)/[Github](https://github.com/FireRedTeam/FireRedTTS3)/[HuggingFace](https://huggingface.co/FireRedTeam/FireRedTTS3)/[Demo](https://fireredteam.github.io/demos/firered_tts_3/) |
 | 2026-08 | **dots.tts.edit: Precisely Controlled Speech Editing with a Continuous Autoregressive Model** | [arXiv](https://arxiv.org/abs/2608.02673)/[Demo](https://huggingface.co/spaces/dots-studio/dots.tts.edit-demo) |
 | 2026-06 | **UniSAE: Unified Speech Attribute Editing on Speaker, Emotion and Low-Level Content via Discrete Phonetic Posteriorgram Modelling** | [arXiv](https://arxiv.org/abs/2606.31128)/[Demo](https://anonymous260213.github.io/mydemo/) |
