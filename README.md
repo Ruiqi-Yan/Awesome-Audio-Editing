@@ -6,12 +6,12 @@ A curated list of models, benchmarks, tools and guides for audio editing
 - [Challenges](#challenges)
 - [Benchmarks](#benchmarks)
   - [General-Purpose Audio Editing](#general-purpose-audio-editing)
-  - [Speech Editing (benchmarks)](#speech-editing)
-  - [Music Editing (benchmarks)](#music-editing)
+  - [Speech Editing](#speech-editing)
+  - [Music Editing](#music-editing)
 - [Models](#models)
-  - [Speech Editing (models)](#speech-editing-1)
+  - [Speech Editing](#speech-editing-1)
   - [Audio Editing](#audio-editing)
-  - [Music Editing (models)](#music-editing-1)
+  - [Music Editing](#music-editing-1)
 - [Tools](#tools)
 
 ## Challenges
@@ -35,11 +35,13 @@ A curated list of models, benchmarks, tools and guides for audio editing
 | 2026-06 | **SpeechEditBench: A Bilingual Multi-Attribute Benchmark for Instruction-Guided Speech Editing** | [arXiv](https://arxiv.org/abs/2606.01804)/[Github](https://github.com/daxintan-cuhk/SpeechEditBench)/[HuggingFace](https://huggingface.co/datasets/DiscreteSpeech/SpeechEditBench) |
 | 2025-11 | **Ming-Freeform-Audio-Edit** | [arXiv](https://arxiv.org/abs/2511.05516)/[Github](https://github.com/inclusionAI/Ming-Freeform-Audio-Edit)/[HuggingFace](https://huggingface.co/datasets/inclusionAI/Ming-Freeform-Audio-Edit-Benchmark) |
 | 2025-11 | **Step-Audio-Edit-Benchmark** | [arXiv](https://arxiv.org/abs/2511.03601)/[Github](https://github.com/stepfun-ai/Step-Audio-Edit-Benchmark) |
+| 2025-09 | **ISSE: An Instruction-Guided Speech Style Editing Dataset and Benchmark** | [arXiv](https://arxiv.org/abs/2509.24570)/[HuggingFace](https://huggingface.co/datasets/Ainncy/ISSE)/[Demo](https://ychenn1.github.io/ISSE/) |
 
 ### Music Editing
 | &nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp; | Title | Relevant&nbsp;Resources |
 |:--------:|:------|:------:|
 | 2026-03 | **LyricEditBench: The First Benchmark for Melody-Preserving Lyric Modification Evaluation** | [arXiv](https://arxiv.org/abs/2603.24589)/[Github](https://github.com/ASLP-lab/YingMusic-Singer-Plus)/[HuggingFace](https://huggingface.co/datasets/ASLP-lab/LyricEditBench) |
+| 2025-12 | **Evaluating Music Context Preservation: A Multi-facet Framework for Music Editing Systems** | [arXiv](https://arxiv.org/abs/2512.14629)/[Github](https://github.com/Yashvishe13/MuseCPEval) |
 
 ## Models
 
@@ -49,6 +51,8 @@ A curated list of models, benchmarks, tools and guides for audio editing
 | 2026-09 | **AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing** | [arXiv](https://arxiv.org/abs/2609.08936)/[Github](https://github.com/Tencent-Hunyuan/AuK)/[HuggingFace](https://huggingface.co/tencent/AuK)/[ModelScope](https://modelscope.cn/models/Tencent-Hunyuan/AuK)/[Demo](https://auk-project.github.io/) |
 | 2026-08 | **FireRedAudio: A General-Purpose Audio Language Model with Decoupled Continuous Representations for Understanding and Generation** | [arXiv](https://arxiv.org/abs/2608.24168)/[Github](https://github.com/FireRedTeam/FireRedAudio)/[HuggingFace](https://huggingface.co/FireRedTeam/FireRedAudio)/[ModelScope](https://www.modelscope.cn/models/FireRedTeam/FireRedAudio)/[Demo](https://fireredteam.github.io/demos/fireredaudio/) |
 | 2026-08 | **FireRedTTS3: Unified Speech Generation and Editing with Semantically Enriched Speech Representations** | [arXiv](https://arxiv.org/abs/2608.17492)/[Github](https://github.com/FireRedTeam/FireRedTTS3)/[HuggingFace](https://huggingface.co/FireRedTeam/FireRedTTS3)/[Demo](https://fireredteam.github.io/demos/firered_tts_3/) |
+| 2026-08 | **VoiceDesigner: Text-to-Voice Generation and Editing via Unified Diffusion Modeling and Data Augmentation** | [arXiv](https://arxiv.org/abs/2608.13613)/[Demo](https://voicedesigner-demo.github.io/) |
+| 2026-08 | **Multi Codec Discrete Diffusion Model for Text Guided Speech Inpainting and Editing** | [arXiv](https://arxiv.org/abs/2608.06424) |
 | 2026-08 | **dots.tts.edit: Precisely Controlled Speech Editing with a Continuous Autoregressive Model** | [arXiv](https://arxiv.org/abs/2608.02673)/[Demo](https://huggingface.co/spaces/dots-studio/dots.tts.edit-demo) |
 | 2026-06 | **UniSAE: Unified Speech Attribute Editing on Speaker, Emotion and Low-Level Content via Discrete Phonetic Posteriorgram Modelling** | [arXiv](https://arxiv.org/abs/2606.31128)/[Demo](https://anonymous260213.github.io/mydemo/) |
 | 2026-05 | **CosyEdit2: Speech-Editing-Oriented Reinforcement Learning Unlocks Better Zero-Shot TTS** | [arXiv](https://arxiv.org/abs/2605.25930)/[Demo](https://cjy1018.github.io/CosyEdit2) |
@@ -67,6 +71,7 @@ A curated list of models, benchmarks, tools and guides for audio editing
 ### Audio Editing
 | &nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp; | Title | Relevant&nbsp;Resources |
 |:--------:|:------|:------:|
+| 2026-09 | **One-Stage Multi-Task Instruction-Guided 3D Spatial Audio Editing** | [arXiv](https://arxiv.org/abs/2609.04975)/[Github](https://github.com/MM-Speech/SwanWeave)/[Demo](https://swanaigc.github.io/#swanweave) |
 | 2026-06 | **DirectAudioEdit: Inversion-Free Text-Guided Audio Editing via Diffusion Prediction Contrast** | [arXiv](https://arxiv.org/abs/2606.07356)/[Demo](https://directaudioedit.github.io/) |
 | 2026-05 | **UNISON: A Unified Sound Generation and Editing Framework via Deep LLM Fusion** | [arXiv](https://arxiv.org/abs/2605.31530)/[Github](https://github.com/lizhaoqing/UNISON)/[Demo](https://lizhaoqing.github.io/UNISON-demo/) |
 | 2026-05 | **SpongeBob: Sync-Aware Harmonious Audio-Visual Generative Editing** | [arXiv](https://arxiv.org/abs/2605.25193)/[Github](https://github.com/HY-SpongeBob/HY-SpongeBob)/[Demo](https://hy-spongebob.github.io/) |
@@ -75,9 +80,11 @@ A curated list of models, benchmarks, tools and guides for audio editing
 | 2026-02 | **Bagpiper: Solving Open-Ended Audio Tasks via Rich Captions** | [arXiv](https://arxiv.org/abs/2602.05220)/[Demo](https://bagpiper-cmu.github.io/) |
 | 2026-02 | **AudioChat: Unified Audio Storytelling, Editing, and Understanding with Transfusion Forcing** | [arXiv](https://arxiv.org/abs/2602.17097)/[Demo](https://wanchichen.github.io/audiochat/) |
 | 2025-12 | **MMEDIT: A Unified Framework for Multi-Type Audio Editing via Audio Language Model** | [arXiv](https://arxiv.org/abs/2512.20339)/[Github](https://github.com/ty0402/MMEdit)/[HuggingFace](https://huggingface.co/CocoBro/MMEdit)/[Demo](https://ty0402.github.io/MMEditing/) |
+| 2025-10 | **SAO-Instruct: Free-form Audio Editing using Natural Language Instructions** | [arXiv](https://arxiv.org/abs/2510.22795)/[Github](https://github.com/eth-disco/sao-instruct)/[Demo](https://eth-disco.github.io/sao-instruct) |
 | 2025-10 | **UALM: Unified Audio Language Model for Understanding, Generation and Reasoning** | [arXiv](https://arxiv.org/abs/2510.12000) |
 | 2025-09 | **Guiding Audio Editing with Audio Language Model** | [arXiv](https://arxiv.org/abs/2509.21625)/[Github](https://github.com/penn-waves-lab/SmartDJ) |
 | 2025-09 | **Recomposer: Event-roll-guided generative audio editing** | [arXiv](https://arxiv.org/abs/2509.05256) |
+| 2025-06 | **ThinkSound: Chain-of-Thought Reasoning in Multimodal Large Language Models for Audio Generation and Editing** | [arXiv](https://arxiv.org/abs/2506.21448)/[Github](https://github.com/liuhuadai/ThinkSound)/[Demo](https://ThinkSound-Project.github.io) |
 | 2025-05 | **AudioMorphix: Training-free audio editing with diffusion probabilistic models** | [arXiv](https://arxiv.org/abs/2505.16076)/[Github](https://github.com/JinhuaLiang/AudioMorphix)/[Demo](https://jinhualiang.github.io/AudioMorphix-Demo/) |
 | 2024-09 | **AudioEditor: A Training-Free Diffusion-Based Audio Editing Framework** | [arXiv](https://arxiv.org/abs/2409.12466)/[Github](https://github.com/NKU-HLT/AudioEditor)/[Demo](https://kiri0824.github.io/AudioEditor-demo-page/) |
 | 2024-06 | **Prompt-guided Precise Audio Editing with Diffusion Models** | [arXiv](https://arxiv.org/abs/2406.04350) |
@@ -89,6 +96,10 @@ A curated list of models, benchmarks, tools and guides for audio editing
 ### Music Editing
 | &nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp; | Title | Relevant&nbsp;Resources |
 |:--------:|:------|:------:|
+| 2026-09 | **AURA: Unified Multimodal Framework for Conversational Music Editing** | [arXiv](https://arxiv.org/abs/2609.14344)/[Github](https://github.com/OpenRB-Lab/AURA)/[HuggingFace](https://huggingface.co/OpenRB-Lab/AURA)/[Demo](https://openrb-lab.github.io/AURA-demo/) |
+| 2026-08 | **CLASVS: Continuous-Latent Autoregression for Melody-Preserving Lyric Editing in Singing Voice Synthesis** | [arXiv](https://arxiv.org/abs/2608.03253)/[Demo](https://piedpiperg.github.io/clasvs-demo/) |
+| 2026-08 | **P-MUSE: Prompt-MIDI-Optional Model for Unified Instrumental Music Synthesis and Editing** | [arXiv](https://arxiv.org/abs/2608.01920)/[Github](https://github.com/FEAfeatherTHER/P-MUSE-eval)/[Demo](https://p-muse.github.io/) |
+| 2026-07 | **RIME: Enabling Large-Scale Agentic Music Post-Production** | [arXiv](https://arxiv.org/abs/2607.19605) |
 | 2026-02 | **ACE-Step 1.5: Pushing the Boundaries of Open-Source Music Generation** | [arXiv](https://arxiv.org/abs/2602.00744)/[Demo](https://ace-step.github.io/ace-step-v1.5.github.io/) |
 | 2025-11 | **Melodia: Training-Free Music Editing Guided by Attention Probing in Diffusion Models** | [arXiv](https://arxiv.org/abs/2511.08252) |
 | 2025-11 | **MusRec: Zero-Shot Text-to-Music Editing via Rectified Flow and Diffusion Transformers** | [arXiv](https://arxiv.org/abs/2511.04376) |
