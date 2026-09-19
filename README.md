@@ -72,6 +72,7 @@ A curated list of models, benchmarks, tools and guides for audio editing
 | &nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp; | Title | Relevant&nbsp;Resources |
 |:--------:|:------|:------:|
 | 2026-09 | **One-Stage Multi-Task Instruction-Guided 3D Spatial Audio Editing** | [arXiv](https://arxiv.org/abs/2609.04975)/[Github](https://github.com/MM-Speech/SwanWeave)/[Demo](https://swanaigc.github.io/#swanweave) |
+| 2026-06 | **Bagpiper-Edit: Zero-Shot Open-Ended Audio Editing via Rich-Caption** | [arXiv](https://arxiv.org/abs/2606.21227)/[Github](https://github.com/HsunGong/espnet)/[Demo](https://bagpiper-edit.github.io/) |
 | 2026-06 | **DirectAudioEdit: Inversion-Free Text-Guided Audio Editing via Diffusion Prediction Contrast** | [arXiv](https://arxiv.org/abs/2606.07356)/[Demo](https://directaudioedit.github.io/) |
 | 2026-05 | **UNISON: A Unified Sound Generation and Editing Framework via Deep LLM Fusion** | [arXiv](https://arxiv.org/abs/2605.31530)/[Github](https://github.com/lizhaoqing/UNISON)/[Demo](https://lizhaoqing.github.io/UNISON-demo/) |
 | 2026-05 | **SpongeBob: Sync-Aware Harmonious Audio-Visual Generative Editing** | [arXiv](https://arxiv.org/abs/2605.25193)/[Github](https://github.com/HY-SpongeBob/HY-SpongeBob)/[Demo](https://hy-spongebob.github.io/) |
