@@ -32,6 +32,7 @@ A curated list of models, benchmarks, tools and guides for audio editing
 ### Speech Editing
 | &nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp; | Title | Relevant&nbsp;Resources |
 |:--------:|:------|:------:|
+| 2026-08 | **doteBench** | [arXiv](https://arxiv.org/abs/2608.02673)/[Github](https://github.com/studio-dots-ai/doteBench) |
 | 2026-06 | **SpeechEditBench: A Bilingual Multi-Attribute Benchmark for Instruction-Guided Speech Editing** | [arXiv](https://arxiv.org/abs/2606.01804)/[Github](https://github.com/daxintan-cuhk/SpeechEditBench)/[HuggingFace](https://huggingface.co/datasets/DiscreteSpeech/SpeechEditBench) |
 | 2025-11 | **Ming-Freeform-Audio-Edit** | [arXiv](https://arxiv.org/abs/2511.05516)/[Github](https://github.com/inclusionAI/Ming-Freeform-Audio-Edit)/[HuggingFace](https://huggingface.co/datasets/inclusionAI/Ming-Freeform-Audio-Edit-Benchmark) |
 | 2025-11 | **Step-Audio-Edit-Benchmark** | [arXiv](https://arxiv.org/abs/2511.03601)/[Github](https://github.com/stepfun-ai/Step-Audio-Edit-Benchmark) |
@@ -53,7 +54,7 @@ A curated list of models, benchmarks, tools and guides for audio editing
 | 2026-08 | **FireRedTTS3: Unified Speech Generation and Editing with Semantically Enriched Speech Representations** | [arXiv](https://arxiv.org/abs/2608.17492)/[Github](https://github.com/FireRedTeam/FireRedTTS3)/[HuggingFace](https://huggingface.co/FireRedTeam/FireRedTTS3)/[Demo](https://fireredteam.github.io/demos/firered_tts_3/) |
 | 2026-08 | **VoiceDesigner: Text-to-Voice Generation and Editing via Unified Diffusion Modeling and Data Augmentation** | [arXiv](https://arxiv.org/abs/2608.13613)/[Demo](https://voicedesigner-demo.github.io/) |
 | 2026-08 | **Multi Codec Discrete Diffusion Model for Text Guided Speech Inpainting and Editing** | [arXiv](https://arxiv.org/abs/2608.06424) |
-| 2026-08 | **dots.tts.edit: Precisely Controlled Speech Editing with a Continuous Autoregressive Model** | [arXiv](https://arxiv.org/abs/2608.02673)/[Demo](https://huggingface.co/spaces/dots-studio/dots.tts.edit-demo) |
+| 2026-08 | **dots.tts.edit: Precisely Controlled Speech Editing with a Continuous Autoregressive Model** | [arXiv](https://arxiv.org/abs/2608.02673)/[Github](https://github.com/studio-dots-ai/dots.tts)/[HuggingFace](https://huggingface.co/dots-studio/dots.tts.edit)/[Demo](https://huggingface.co/spaces/dots-studio/dots.tts.edit-demo) |
 | 2026-06 | **UniSAE: Unified Speech Attribute Editing on Speaker, Emotion and Low-Level Content via Discrete Phonetic Posteriorgram Modelling** | [arXiv](https://arxiv.org/abs/2606.31128)/[Demo](https://anonymous260213.github.io/mydemo/) |
 | 2026-05 | **CosyEdit2: Speech-Editing-Oriented Reinforcement Learning Unlocks Better Zero-Shot TTS** | [arXiv](https://arxiv.org/abs/2605.25930)/[Demo](https://cjy1018.github.io/CosyEdit2) |
 | 2026-01 | **CosyEdit: Unlocking End-to-End Speech Editing Capability from Zero-Shot Text-to-Speech Models** | [arXiv](https://arxiv.org/abs/2601.05329)/[Github](https://github.com/CJY1018/CosyEdit)/[HuggingFace](https://huggingface.co/CJY/CosyEdit)/[Demo](https://cjy1018.github.io/CosyEditDemoPage/) |
