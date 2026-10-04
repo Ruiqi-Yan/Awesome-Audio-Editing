@@ -8,8 +8,10 @@ A curated list of models, benchmarks, tools and guides for audio editing
   - [General-Purpose Audio Editing](#general-purpose-audio-editing)
   - [Speech Editing](#speech-editing)
   - [Music Editing](#music-editing)
-- [Models](#models)
+- [Datasets](#datasets)
   - [Speech Editing](#speech-editing-1)
+- [Models](#models)
+  - [Speech Editing](#speech-editing-2)
   - [Audio Editing](#audio-editing)
   - [Music Editing](#music-editing-1)
 - [Tools](#tools)
@@ -43,6 +45,14 @@ A curated list of models, benchmarks, tools and guides for audio editing
 |:--------:|:------|:------:|
 | 2026-03 | **LyricEditBench: The First Benchmark for Melody-Preserving Lyric Modification Evaluation** | [arXiv](https://arxiv.org/abs/2603.24589)/[Github](https://github.com/ASLP-lab/YingMusic-Singer-Plus)/[HuggingFace](https://huggingface.co/datasets/ASLP-lab/LyricEditBench) |
 | 2025-12 | **Evaluating Music Context Preservation: A Multi-facet Framework for Music Editing Systems** | [arXiv](https://arxiv.org/abs/2512.14629)/[Github](https://github.com/Yashvishe13/MuseCPEval) |
+
+## Datasets
+
+### Speech Editing
+| &nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp; | Title | Relevant&nbsp;Resources |
+|:--------:|:------|:------:|
+| 2026-06 | **FineEdit: A Structured Paired Dataset for Controllable TTS** | [arXiv](https://arxiv.org/abs/2606.19209)/[Github](https://github.com/thuhcsi/FineEdit) |
+| 2026-06 | **GigaEdit-S** | [arXiv](https://arxiv.org/abs/2601.05329)/[HuggingFace](https://huggingface.co/datasets/CJY/GigaEdit-S) |
 
 ## Models
 
@@ -122,6 +132,5 @@ A curated list of models, benchmarks, tools and guides for audio editing
 |:--------:|:------|:------:|
 | 2025-12 | **SAM Audio: Segment Anything in Audio** | [arXiv](https://arxiv.org/abs/2512.18099)/[Github](https://github.com/facebookresearch/sam-audio) |
 | 2026-08 | **Remove Background Noise (web app)** | [Website](https://removebackgroundnoise.app/) |
-
 
 
