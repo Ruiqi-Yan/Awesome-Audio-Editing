@@ -34,6 +34,7 @@ A curated list of models, benchmarks, tools and guides for audio editing
 ### Speech Editing
 | &nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp; | Title | Relevant&nbsp;Resources |
 |:--------:|:------|:------:|
+| 2026-09 | **SEmoEditBench** | [arXiv](https://arxiv.org/abs/2609.34648)/[Github](https://github.com/imxtx/SEmoEdit/tree/main/SEmoEditBench)/[Demo](https://semoedit.pages.dev/) |
 | 2026-08 | **doteBench** | [arXiv](https://arxiv.org/abs/2608.02673)/[Github](https://github.com/studio-dots-ai/doteBench) |
 | 2026-06 | **SpeechEditBench: A Bilingual Multi-Attribute Benchmark for Instruction-Guided Speech Editing** | [arXiv](https://arxiv.org/abs/2606.01804)/[Github](https://github.com/daxintan-cuhk/SpeechEditBench)/[HuggingFace](https://huggingface.co/datasets/DiscreteSpeech/SpeechEditBench) |
 | 2025-11 | **Ming-Freeform-Audio-Edit** | [arXiv](https://arxiv.org/abs/2511.05516)/[Github](https://github.com/inclusionAI/Ming-Freeform-Audio-Edit)/[HuggingFace](https://huggingface.co/datasets/inclusionAI/Ming-Freeform-Audio-Edit-Benchmark) |
@@ -59,6 +60,7 @@ A curated list of models, benchmarks, tools and guides for audio editing
 ### Speech Editing
 | &nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp; | Title | Relevant&nbsp;Resources |
 |:--------:|:------|:------:|
+| 2026-09 | **SEmoEdit: Probing and Harnessing the Editability of Pre-trained Speech Flows** | [arXiv](https://arxiv.org/abs/2609.34648)/[Github](https://github.com/imxtx/SEmoEdit)/[Demo](https://semoedit.pages.dev/) |
 | 2026-09 | **AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing** | [arXiv](https://arxiv.org/abs/2609.08936)/[Github](https://github.com/Tencent-Hunyuan/AuK)/[HuggingFace](https://huggingface.co/tencent/AuK)/[ModelScope](https://modelscope.cn/models/Tencent-Hunyuan/AuK)/[Demo](https://auk-project.github.io/) |
 | 2026-08 | **FireRedAudio: A General-Purpose Audio Language Model with Decoupled Continuous Representations for Understanding and Generation** | [arXiv](https://arxiv.org/abs/2608.24168)/[Github](https://github.com/FireRedTeam/FireRedAudio)/[HuggingFace](https://huggingface.co/FireRedTeam/FireRedAudio)/[ModelScope](https://www.modelscope.cn/models/FireRedTeam/FireRedAudio)/[Demo](https://fireredteam.github.io/demos/fireredaudio/) |
 | 2026-08 | **FireRedTTS3: Unified Speech Generation and Editing with Semantically Enriched Speech Representations** | [arXiv](https://arxiv.org/abs/2608.17492)/[Github](https://github.com/FireRedTeam/FireRedTTS3)/[HuggingFace](https://huggingface.co/FireRedTeam/FireRedTTS3)/[Demo](https://fireredteam.github.io/demos/firered_tts_3/) |
