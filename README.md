@@ -29,6 +29,7 @@ A curated list of models, benchmarks, tools and guides for audio editing
 | &nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp; | Title | Relevant&nbsp;Resources |
 |:--------:|:------|:------:|
 | 2026-06 | **MMAE: A Massive Multitask Audio Editing Benchmark** | [arXiv](https://arxiv.org/abs/2606.07229)/[Github](https://github.com/ddlBoJack/MMAE)/[HuggingFace](https://huggingface.co/datasets/BoJack/MMAE) |
+| 2026-10 | **Practical Web Tools Studio — Audio Workstation (browser-local)** | [Website](https://practicalwebtools.com/studio/audio-workstation) |
 
 
 ### Speech Editing
