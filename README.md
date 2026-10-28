@@ -30,7 +30,6 @@ A curated list of models, benchmarks, tools and guides for audio editing
 |:--------:|:------|:------:|
 | 2026-06 | **MMAE: A Massive Multitask Audio Editing Benchmark** | [arXiv](https://arxiv.org/abs/2606.07229)/[Github](https://github.com/ddlBoJack/MMAE)/[HuggingFace](https://huggingface.co/datasets/BoJack/MMAE) |
 
-
 ### Speech Editing
 | &nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp; | Title | Relevant&nbsp;Resources |
 |:--------:|:------|:------:|
@@ -143,6 +142,7 @@ A curated list of models, benchmarks, tools and guides for audio editing
 | 2026-08 | **Remove Background Noise (web app)** | [Website](https://removebackgroundnoise.app/) |
 | 2026-09 | **Remove Audio: Remove Music from Video (web app)** | [Website](https://remove-audio.com/tools/remove-music-from-video) |
 | 2026-10 | **QuietTake Noise Remover (browser-local web app)** | [Website](https://noiseremover.site/) |
-| — | **Vocal Separator (online vocal and four-stem separation)** | [Website](https://vocalseparator.com/) |
+| 2026-10 | **Practical Web Tools Studio — Audio Workstation (browser-local)** | [Website](https://practicalwebtools.com/studio/audio-workstation) |
+| 2026-10 | **Vocal Separator (online vocal and four-stem separation)** | [Website](https://vocalseparator.com/) |
 
 
