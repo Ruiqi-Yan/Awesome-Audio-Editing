@@ -138,12 +138,12 @@ A curated list of models, benchmarks, tools and guides for audio editing
 ## Tools
 | &nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp; | Title | Relevant&nbsp;Resources |
 |:--------:|:------|:------:|
-| 2025-12 | **SAM Audio: Segment Anything in Audio** | [arXiv](https://arxiv.org/abs/2512.18099)/[Github](https://github.com/facebookresearch/sam-audio) |
-| 2026-08 | **Remove Background Noise (web app)** | [Website](https://removebackgroundnoise.app/) |
-| 2026-09 | **Remove Audio: Remove Music from Video (web app)** | [Website](https://remove-audio.com/tools/remove-music-from-video) |
 | 2026-10 | **QuietTake Noise Remover (browser-local web app)** | [Website](https://noiseremover.site/) |
 | 2026-10 | **Practical Web Tools Studio — Audio Workstation (browser-local)** | [Website](https://practicalwebtools.com/studio/audio-workstation) |
 | 2026-10 | **Vocal Separator (online vocal and four-stem separation)** | [Website](https://vocalseparator.com/) |
 | 2026-10 | **dots.tts.edit Data Pipeline (speech-editing dataset generation)** | [GitHub](https://github.com/studio-dots-ai/dots.tts.edit-data-pipeline) |
+| 2026-09 | **Remove Audio: Remove Music from Video (web app)** | [Website](https://remove-audio.com/tools/remove-music-from-video) |
+| 2026-08 | **Remove Background Noise (web app)** | [Website](https://removebackgroundnoise.app/) |
+| 2025-12 | **SAM Audio: Segment Anything in Audio** | [arXiv](https://arxiv.org/abs/2512.18099)/[Github](https://github.com/facebookresearch/sam-audio) |
 
 
