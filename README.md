@@ -54,6 +54,7 @@ A curated list of models, benchmarks, tools and guides for audio editing
 ### Speech Editing
 | &nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp; | Title | Relevant&nbsp;Resources |
 |:--------:|:------|:------:|
+| 2026-11 | **VoxCanvas-41M: A Large-Scale Bilingual Dataset for Instruction-Based Speech Editing and Its Learning Dynamics**<br>About 41M Chinese/English editing pairs covering single-span, multi-span and location-reference content editing, plus insertion/deletion of nonverbal vocalizations. Also releases refined Emilia transcripts in six languages, re-transcribed with Qwen3-ASR-1.7B, for TTS training. | [arXiv](https://arxiv.org/abs/2611.08251)/[GitHub](https://github.com/ZhikangNiu/VoxCanvas)/[HuggingFace](https://huggingface.co/datasets/zkniu/VoxCanvas)/[Demo](https://zhikangniu.github.io/voxcanvas/) |
 | 2026-06 | **FineEdit: A Structured Paired Dataset for Controllable TTS** | [arXiv](https://arxiv.org/abs/2606.19209)/[Github](https://github.com/thuhcsi/FineEdit) |
 | 2026-06 | **GigaEdit-S** | [arXiv](https://arxiv.org/abs/2601.05329)/[HuggingFace](https://huggingface.co/datasets/CJY/GigaEdit-S) |
 
